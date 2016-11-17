@@ -1,0 +1,29 @@
+canvas {
+	background: black;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+
+table{
+	background-image: url("wallpapers/fundo7.jpg");
+	border-color: white;
+}
+
+td{
+	background-color: black;
+	background-image: url("wallpapers/fundo7.jpg");
+	font-size:larger;
+	width: 130px;
+	text-align: center;
+	color: red;
+	font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+canvas{
+	background-image: url("wallpapers/fundo6.jpg");
+}
+
+body{
+	background-color: black;
+}
